@@ -1,1 +1,1 @@
-# Jenny-Personal-Assistant
+# Jenny My Personal Assistant
