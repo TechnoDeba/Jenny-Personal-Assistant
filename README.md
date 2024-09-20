@@ -17,3 +17,4 @@
   <li>Open Social Media sites like instagram,facebook,twitter,whatsapp</li>
   <li>Search for an item on google</li>
 </ul>
+<h2>Have a check on my <a href="https://technodeba.github.io/Jenny-Personal-Assistant/">Jenny</a></h2>
